@@ -1,0 +1,282 @@
+{
+    "pages": [
+        {
+            "page_title": "Home",
+            "page_slug": "home",
+            "marquee": 1,
+            "meta_tags": [
+                "<link rel='canonical' href='https://gee55.info'>",
+                "<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>",
+                "<meta content='IE=Edge' http-equiv='X-UA-Compatible'>",
+                "<meta name='author' content='gee55'>",
+                "<meta name='viewport' content='width=device-width, initial-scale=1'/>",
+                "<meta name='renderer' content='webkit'/>",
+                "<title>Gee55 Slot - Menangi Hadiah Besar dengan Slot Dalam Talian</title>",
+                "<meta name='title' content='Gee55 Slot - Menangi Hadiah Besar dengan Slot Dalam Talian'>",
+                "<meta name='description' content='Bersedia untuk spin dan menang di Gee55 slot! Login dengan selamat dan nikmati pelbagai permainan slot yang menarik dan bonus tinggi.'>",
+                "<meta name='keywords' content='gee55, gee55 login, gee55 slot, gee55 download, gee55 casino, gee55 apk, apk gee55, login gee55, slot gee55, download gee55 apk'>",
+                "<meta itemprop='name' content='Gee55 Slot - Menangi Hadiah Besar dengan Slot Dalam Talian'>",
+                "<meta itemprop='description' content='Bersedia untuk spin dan menang di Gee55 slot! Login dengan selamat dan nikmati pelbagai permainan slot yang menarik dan bonus tinggi.'>",
+                "<meta itemprop='image' content='{{site_base_url}}/assets/images/gee55_logo.webp'>",
+                "<meta property='og:locale' content='ms-MY'>",
+                "<meta property='og:type' content='article'>",
+                "<meta property='og:url' content='https://gee55.info'>",
+                "<meta property='og:title' content='Gee55 Slot - Menangi Hadiah Besar dengan Slot Dalam Talian'>",
+                "<meta property='og:description' content='Bersedia untuk spin dan menang di Gee55 slot! Login dengan selamat dan nikmati pelbagai permainan slot yang menarik dan bonus tinggi.'>",
+                "<meta property='og:site_name' content='gee55'>",
+                "<meta property='og:image' content='{{site_base_url}}/assets/images/gee55_logo.webp'>",
+                "<meta property='article:tag' content='gee55'>",
+                "<meta property='article:tag' content='gee55 login'>",
+                "<meta property='article:tag' content='gee55 slot'>",
+                "<meta property='article:tag' content='gee55 download'>",
+                "<meta property='article:tag' content='gee55 casino'>",
+                "<meta property='article:tag' content='gee55 apk'>",
+                "<meta property='article:tag' content='apk gee55'>",
+                "<meta property='article:tag' content='login gee55'>",
+                "<meta property='article:tag' content='slot gee55'>",
+                "<meta property='article:tag' content='download gee55 apk'>",
+                "<meta name='twitter:card' content='summary_large_image'>",
+                "<meta name='twitter:site' content='{{site_base_url}}/assets/images/gee55_logo.webp'>",
+                "<meta name='twitter:title' content='Gee55 Slot - Menangi Hadiah Besar dengan Slot Dalam Talian'>",
+                "<meta name='twitter:description' content='Bersedia untuk spin dan menang di Gee55 slot! Login dengan selamat dan nikmati pelbagai permainan slot yang menarik dan bonus tinggi.'>",
+                "<meta name='twitter:image' content='{{site_base_url}}/assets/images/gee55_logo.webp'>"
+            ],
+            "schema":  {
+                "organization": {
+                    "@context": "https://schema.org",
+                    "@type": "Organization",
+                    "url": "https://gee55.info",
+                    "logo": "",
+                    "name": "Gee55 Slot - Menangi Hadiah Besar dengan Slot Dalam Talian",
+                    "description": "Bersedia untuk spin dan menang di Gee55 slot! Login dengan selamat dan nikmati pelbagai permainan slot yang menarik dan bonus tinggi."
+                },
+                "breadcrumbs": {
+                    "@context": "https://schema.org",
+                    "@type": "BreadcrumbList",
+                    "itemListElement": [
+                        {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Gee55",
+                            "item": "https://gee55.info"
+                        }
+                    ]
+                },
+                "faq": {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        {
+                            "@type": "Question",
+                            "name": "Bagaimana cara mendaftar di gee55?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Buka halaman utama, klik “Daftar,” isi nama, e-mel dan kata laluan, kemudian sahkan e-mel anda."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "Apakah pilihan kaedah pembayaran di gee55?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "gee55 menyokong pindahan bank tempatan dan e-wallet; tiada caj tersembunyi untuk deposit serta-merta."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "Bolehkah saya bermain tanpa muat turun APK?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Boleh. Anda boleh akses platform melalui web browser di desktop atau telefon."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "Apa itu varians slot?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Varians slot menggambarkan kekerapan dan jumlah kemenangan; varians rendah memberi kemenangan kerap tetapi kecil, varians tinggi memberi kemenangan sedikit tetapi besar."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "Berapa lama masa pemprosesan pengeluaran?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Pengeluaran biasanya diproses dalam tempoh 24 jam pada hari bekerja selepas pengesahan lengkap."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "Bagaimana saya mencapai status VIP di gee55?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Tingkatkan jumlah taruhan anda dan sertai VIP ketika acara promosi untuk kumpul mata lebih pantas."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "Bagaimana menetapkan had deposit, masa dan kerugian?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Gunakan ciri tutup akaun sementara untuk tetapkan had deposit, masa bermain dan kerugian mingguan."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "Apakah syarat terma welcome bonus?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Deposit minimum RM30 dan lengkapkan pengesahan akaun sebelum bonus dikreditkan."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "Bolehkah saya bermain di peranti mudah alih?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Boleh. Muat turun gee55 APK atau gunakan versi web mudah alih."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "Bagaimana saya semak laporan audit permainan?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Laporan ringkasan audit tersedia di laman utama untuk rujukan anda."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "Bagaimana cara menyusun strategi bonus peribadi?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Gabungkan welcome bonus, free spin dan cashback mengikut tarikh luput dan syarat wager."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "Bolehkah saya gabungkan beberapa promosi serentak?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Pastikan terma setiap promosi tidak bertindih dan susun ikut tarikh luput sebelum menuntut."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "Apa perlu dilakukan jika akaun saya digantung?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Hubungi pasukan sokongan melalui halaman Contact untuk semakan secepat mungkin."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "Bolehkah satu akaun digunakan di pelbagai peranti?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Boleh. Anda hanya perlu log masuk menggunakan nama pengguna dan kata laluan yang sama."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "Bagaimana cara bermain dengan selamat dan elak burnout?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Tetapkan jadual rehat, had masa dan deposit; ambil masa berehat jika rasa kurang fokus atau stres."
+                            }
+                        }
+                    ]
+                }
+            },
+            "faq": [
+                {
+                    "question": "What is Gee55?",
+                    "answer": "Gee55 is an online slot platform."
+                },
+                {
+                    "question": "Is Gee55 free?",
+                    "answer": "Yes, you can try for free."
+                }
+            ],
+            "body": {
+                "content": "<h1>Welcome to Gee55</h1><p>This is the homepage content.</p>",
+                "": ""
+            }
+        },
+        {
+            "page_title": "Permainan Slot",
+            "page_slug": "permainan-slot",
+            "marquee": 1,
+            "meta_tags": [],
+            "schema": {},
+            "content": "",
+            "faq": [
+                {
+                    "question": "What is Gee55?",
+                    "answer": "Gee55 is an online slot platform."
+                },
+                {
+                    "question": "Is Gee55 free?",
+                    "answer": "Yes, you can try for free."
+                }
+            ]
+        }
+    ],
+    "disclaimer": [
+        {
+            "page_title": "Perjudian Bertanggungjawab",
+            "page_slug": "perjudian-bertanggungjawab",
+            "marquee": 1,
+            "meta_tags": [
+                "",
+                ""
+            ],
+            "schema": {},
+            "content": "<h1>Page - Perjudian Bertanggungjawab</p>",
+            "faq": [
+                {
+                    "question": "What is Gee55?",
+                    "answer": "Gee55 is an online slot platform."
+                },
+                {
+                    "question": "Is Gee55 free?",
+                    "answer": "Yes, you can try for free."
+                }
+            ]
+        },
+        {
+            "page_title": "Dasar Privasi",
+            "page_slug": "dasar-privasi",
+            "marquee": 1,
+            "meta_tags": [
+                "",
+                ""
+            ],
+            "schema": {},
+            "content": "<h1>Page - Dasar Privasi</p>",
+            "faq": []
+        },
+        {
+            "page_title": "Terma dan Syarat",
+            "page_slug": "terma-dan-syarat",
+            "marquee": 1,
+            "meta_tags": [
+                "",
+                ""
+            ],
+            "schema": {},
+            "content": "<h1>Page - Terma dan Syarat</p>",
+            "faq": [
+                {
+                    "question": "What is Gee55?",
+                    "answer": "Gee55 is an online slot platform."
+                },
+                {
+                    "question": "Is Gee55 free?",
+                    "answer": "Yes, you can try for free."
+                }
+            ]
+        }
+    ]
+}
