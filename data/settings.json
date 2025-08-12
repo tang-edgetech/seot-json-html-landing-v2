@@ -8,10 +8,10 @@
         "duration": "25s"
     },
     "user-profile": {
-        "register": "",
-        "login": "",
-        "deposit": "",
-        "withdraw": "",
-        "refresh": ""
+        "register": "https://www.winbebas.com/register/?affiliateCode=wbbseo5",
+        "login": "https://www.winbebas.com/register/?affiliateCode=wbbseo5",
+        "deposit": "https://www.winbebas.com/register/?affiliateCode=wbbseo5",
+        "withdraw": "https://www.winbebas.com/register/?affiliateCode=wbbseo5",
+        "refresh": "https://www.winbebas.com/register/?affiliateCode=wbbseo5"
     }
 }

@@ -8,7 +8,7 @@
     <meta name="robots" content="noindex, nofollow">
     <meta name="google-site-verification" content="huUdaKQ9keaOQVlaoIme2Q0kXznBy1aZvk-Iq0EiBgg" />
     <base href="<?php echo home_url();?>">
-    <link rel="icon" type="image/png" href="<?php echo home_url().'/assets/images/favicon.png';?>" />
+    <link rel="icon" type="image/png" href="<?php echo home_url().'/assets/images/favicon/'.SITE_KEY.'_favicon.png';?>" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
@@ -38,15 +38,15 @@
                         <a href="<?php echo home_url();?>" class="navbar-brand p-0">
                             <span class="d-none">Home</span>
                             <picture>
-                                <source srcset="<?php echo home_url();?>/assets/images/gee55_logo.webp" type="image/webp">
-                                <source srcset="<?php echo home_url();?>/assets/images/gee55_logo.png" type="image/png">
-                                <img src="<?php echo home_url();?>/assets/images/gee55_logo.webp" alt="LPK777 Logo" class="img-fit">
+                                <source srcset="<?php echo home_url() .'/assets/images/logo/'.SITE_KEY.'_logo.webp';?>" type="image/webp">
+                                <source srcset="<?php echo home_url() .'/assets/images/logo/'.SITE_KEY.'_logo.png';?>" type="image/png">
+                                <img src="<?php echo home_url() .'/assets/images/logo/'.SITE_KEY.'_logo.webp';?>" alt="<?php echo strtoupper(SITE_KEY);?> Logo" class="img-fit">
                             </picture>
                         </strong></a>
                         <div></div>
                         <div class="collapse navbar-collapse justify-content-xl-end" id="main-navigation">
                             <div class="navbar-collapse-inner">
-                                <h4 class="d-block text-center p-4 py-2 title-logo mb-0"><a href="<?php echo home_url();?>" class="d-block"><img src="<?php echo home_url();?>/assets/images/gee55_logo.webp" alt="LPK777 Logo" class="img-fit mx-auto"></strong></a></h4>
+                                <h4 class="d-block text-center p-4 py-2 title-logo mb-0"><a href="<?php echo home_url();?>" class="d-block"><img src="<?php echo home_url() .'/assets/images/logo/'.SITE_KEY.'_logo.webp';?>" alt="<?php echo strtoupper(SITE_KEY);?> Logo" class="img-fit mx-auto"></strong></a></h4>
                                 <button type="button" class="navbar-close" aria-label="Close menu">
                                     <span class="d-none">Close Mobile Menu</span>
                                 </button>

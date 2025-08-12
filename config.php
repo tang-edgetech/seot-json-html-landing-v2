@@ -4,14 +4,14 @@
 // -----------------------------
 define('BASE_PATH', __DIR__);
 define('LOCALHOST_NAME', 'seot-json-html-landing-v2');
-$serverPath = $_SERVER['DOCUMENT_ROOT'];
+$serverPath = $_SERVER['DOCUMENT_ROOT']; // "/home/seot2/public_html/gee55.info"
 $domainFolder = basename($serverPath);
-define('DOMAIN_NAME', $domainFolder);
+define('DOMAIN_NAME', $domainFolder); // gee55.info
 $siteKey = 'gee55';
 if( $domainFolder !== 'htdocs' ) {
     $siteKey = explode('.', $domainFolder)[0];
 }
-define('SITE_KEY', $siteKey);
+define('SITE_KEY', $siteKey); // gee55
 
 // Detect if environment is localhost
 function is_localhost(): bool {
