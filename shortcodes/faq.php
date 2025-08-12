@@ -1,3 +1,6 @@
+<?php
+if( !empty($data[0]['question']) && !empty($data[0]['answer']) ) {
+?>
 <section class="" id="faq">
     <div class="container-fluid">
         <div class="row justify-content-center">
@@ -5,7 +8,7 @@
                 <h2>Soalan Lazim (FAQ)</h2>
                 <div class="accordion" id="accordionFAQ">
                 <?php $i = 1;
-                foreach ( $faq as $item ) {
+                foreach ( $data as $item ) {
                     $title = $item['question'];
                     $body = $item['answer'];
                     if( $title && $body ) {
@@ -28,3 +31,6 @@
         </div>
     </div>
 </section>
+<?php
+}
+?>

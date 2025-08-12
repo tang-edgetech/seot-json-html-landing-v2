@@ -1,3 +1,12 @@
-<div class="marquee scrolling-container p-0 row align-items-center mx-auto pnpm4-page-content-inner">
-    <span class="h-100"><strong>Nikmati permainan tanpa Risiko! Main sekarang di KAYA88 dan dapatkan RM50 PERCUMA setiap hari untuk game pilihan: Tajaan Khas oleh UUSlot &amp; Marbula2</strong></span>
+<?php
+$settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ), true);
+$data = $settings['marquee'];
+?>
+<div class="marquee scrolling-container p-0 d-flex align-items-center mx-auto pnpm4-page-content-inner">
+    <div class="mx-3">
+        <img src="<?php echo assets_url();?>/bell.png" width="18px" class="bell">
+    </div>
+    <div class="col" style="overflow:hidden;">
+        <span class="h-100" width="90%" style="animation-duration:<?php echo !empty($data['duration']) ? $data['duration'] : '20s'; ?>;"><?php echo $data['content'];?></span>
+    </div>
 </div>

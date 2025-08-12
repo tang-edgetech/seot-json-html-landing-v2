@@ -2,5 +2,16 @@
     "colors": {
         "primary": "#00ffd9",
         "secondary": "#ff0055"
+    },
+    "marquee": {
+        "content": "💰 Deposit & menang sehingga MYR55,555! Jom sertai program Monthly Deposit Lucky Draw di GEE55 dan rebut peluang menjadi pemenang bertuah. Deposit setiap bulan, hadiah lumayan menanti anda!",
+        "duration": "25s"
+    },
+    "user-profile": {
+        "register": "",
+        "login": "",
+        "deposit": "",
+        "withdraw": "",
+        "refresh": ""
     }
 }

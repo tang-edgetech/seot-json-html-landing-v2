@@ -3,7 +3,15 @@
 // CONFIGURATION & GLOBAL FUNCS
 // -----------------------------
 define('BASE_PATH', __DIR__);
-define('SITE_KEY', 'seot-json-html-landing-v2');
+define('LOCALHOST_NAME', 'seot-json-html-landing-v2');
+$serverPath = $_SERVER['DOCUMENT_ROOT'];
+$domainFolder = basename($serverPath);
+define('DOMAIN_NAME', $domainFolder);
+$siteKey = 'gee55';
+if( $domainFolder !== 'htdocs' ) {
+    $siteKey = explode('.', $domainFolder)[0];
+}
+define('SITE_KEY', $siteKey);
 
 // Detect if environment is localhost
 function is_localhost(): bool {
@@ -13,15 +21,19 @@ function is_localhost(): bool {
 
 function home_url(string $path = ''): string {
     $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? "https" : "http";
-    $domain   = is_localhost() ? "localhost/seot-json-html-landing-v2" : "gee55.info";
+    $domain   = is_localhost() ? "localhost/".LOCALHOST_NAME : DOMAIN_NAME;
 
     $url = $protocol . "://" . $domain;
 
     if (!empty($path)) {
-        // Remove .php and query for clean URL
         $url .= '/' . ltrim($path, '/');
     }
 
+    return $url;
+}
+
+function assets_url() {
+    $url = home_url()."/assets/images/";
     return $url;
 }
 
@@ -52,7 +64,7 @@ function get_page_meta_tags(array $page): string {
 
     $output = '';
     foreach ($page['meta_tags'] as $meta) {
-        $output .= $meta;
+        $output .= convert_string_url($meta);
     }
 
     return $output;
@@ -104,4 +116,8 @@ function get_the_menu_items($type) {
         ];
     }, $pages[$type]);
     return $titlesAndSlugs;
+}
+
+function randomUniqueID($length = 8) {
+    return substr(str_shuffle('0123456789abcdefghijklmnopqrstuvwxyz'), 0, $length);
 }
