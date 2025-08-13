@@ -230,12 +230,16 @@ a, button, .btn, a.btn, button.btn, .share-button::before {
 p, ul, ol, .text-p {
     margin-bottom: 0.5rem;
 }
-ol.heading-title li::marker {
+.heading-title li::marker {
     font-weight: 700;
 }
-ol.heading-title.heading-3 li::marker {
+.heading-title.heading-3 li::marker {
     font-size: 24px;
     line-height: 24px;
+}
+.heading-title.heading-4 li::marker {
+    font-size: 20px;
+    line-height: 20px;
 }
 .text-editor h1 > a, .text-editor h2 > a, .text-editor h3 > a, .text-editor h4 > a, .text-editor h5 > a, .text-editor h6 > a,
 .text-editor li p a, .text-editor li p a:hover, 

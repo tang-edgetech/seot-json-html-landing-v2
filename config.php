@@ -3,7 +3,7 @@
 // CONFIGURATION & GLOBAL FUNCS
 // -----------------------------
 define('BASE_PATH', __DIR__);
-define('LOCALHOST_NAME', 'seot-json-html-landing-v2');
+define('LOCALHOST_NAME', 'gee55.info');
 $serverPath = $_SERVER['DOCUMENT_ROOT']; // "/home/seot2/public_html/gee55.info"
 $domainFolder = basename($serverPath);
 define('DOMAIN_NAME', $domainFolder); // gee55.info
@@ -64,7 +64,7 @@ function get_page_meta_tags(array $page): string {
 
     $output = '';
     foreach ($page['meta_tags'] as $meta) {
-        $output .= convert_string_url($meta);
+        $output .= convert_string_url($meta) . PHP_EOL;
     }
 
     return $output;
