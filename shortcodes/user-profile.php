@@ -1,5 +1,4 @@
 <?php if( $data === 1 || $data === 'on' ) :
-    $settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ), true);
     $data = $settings['user-profile'];
 ?>
 <section class="section-login py-0" id="">

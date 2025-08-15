@@ -1,5 +1,4 @@
 <?php
-$settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ), true);
 $data = $settings['marquee'];
 ?>
 <div class="marquee scrolling-container p-0 d-flex align-items-center mx-auto pnpm4-page-content-inner">
