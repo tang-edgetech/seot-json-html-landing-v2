@@ -165,7 +165,7 @@ main {
 }
 .navbar-collapse .title-logo img {
     width: auto;
-    height: 24px;
+    height: 52px;
 }
 section {
     padding: 30px 0;
@@ -314,7 +314,7 @@ a, button, .btn, a.button, button.btn {
 .navbar-brand {
     display: block;
     width: auto;
-    height: 28px;
+    height: 46px;
 }
 .navbar-toggler {
     display: flex;

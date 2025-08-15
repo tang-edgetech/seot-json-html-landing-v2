@@ -3,8 +3,8 @@
         {
             "page_title": "Home",
             "page_slug": "home",
-            "meta_tags": [],
-            "schema":  {},
+            "meta_tags": ["<link rel=\"canonical\" href=\"https://squeen-668.com\">","<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">","<meta content=\"IE=Edge\" http-equiv=\"X-UA-Compatible\">","<meta name=\"author\" content=\"squeen668\">","<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>","<meta name=\"renderer\" content=\"webkit\"/>","<title>squeen668 | Slot Online Terbaik di Malaysia & Bonus Paling Tinggi</title>","<meta name=\"title\" content=\"squeen668 | Slot Online Terbaik di Malaysia & Bonus Paling Tinggi\">","<meta name=\"description\" content=\"Main dan menang besar di squeen668, laman slot online paling dipercayai di Malaysia. Nikmati bonus hebat, permainan adil & muat turun iOS/Android APK sekarang.\">","<meta name=\"keywords\" content=\"squeen668, squeen668 slot, squeen668 ewallet, squeen668 online casino, squeen668 apk, squeen668 apk download, squeen668 iOS / APK\">","<meta itemprop=\"name\" content=\"squeen668 | Slot Online Terbaik di Malaysia & Bonus Paling Tinggi\">","<meta itemprop=\"description\" content=\"Main dan menang besar di squeen668, laman slot online paling dipercayai di Malaysia. Nikmati bonus hebat, permainan adil & muat turun iOS/Android APK sekarang.\">","<meta itemprop=\"image\" content=\"{{site_base_url}}/assets/images/logo/squeen-668_logo.webp\">","<meta property=\"og:locale\" content=\"ms-MY\">","<meta property=\"og:type\" content=\"article\">","<meta property=\"og:url\" content=\"https://squeen-668.com/\">","<meta property=\"og:title\" content=\"squeen668 | Slot Online Terbaik di Malaysia & Bonus Paling Tinggi\">","<meta property=\"og:description\" content=\"Main dan menang besar di squeen668, laman slot online paling dipercayai di Malaysia. Nikmati bonus hebat, permainan adil & muat turun iOS/Android APK sekarang.\">","<meta property=\"og:site_name\" content=\"squeen-668.com\">","<meta property=\"og:image\" content=\"{{site_base_url}}/assets/images/logo/squeen-668_logo.webp\">","<meta property=\"article:tag\" content=\"squeen668\">","<meta property=\"article:tag\" content=\"squeen668 slot\">","<meta property=\"article:tag\" content=\"squeen668 ewallet\">","<meta property=\"article:tag\" content=\"squeen668 online casino\">","<meta property=\"article:tag\" content=\"squeen668 apk\">","<meta property=\"article:tag\" content=\"squeen668 apk download\">","<meta property=\"article:tag\" content=\"squeen668 iOS / APK\">","<meta name=\"twitter:card\" content=\"summary_large_image\">","<meta name=\"twitter:site\" content=\"{{site_base_url}}/assets/images/logo/squeen-668_logo.webp\">","<meta name=\"twitter:title\" content=\"squeen668 | Slot Online Terbaik di Malaysia & Bonus Paling Tinggi\">","<meta name=\"twitter:description\" content=\"Main dan menang besar di squeen668, laman slot online paling dipercayai di Malaysia. Nikmati bonus hebat, permainan adil & muat turun iOS/Android APK sekarang.\">","<meta name=\"twitter:image\" content=\"{{site_base_url}}/assets/images/logo/squeen-668_logo.webp\">"],
+            "schema":  {"organization":{"@context":"https://schema.org","@type":"Organization","url":"https://squeen-668.com","logo":"https://squeen-668.com/assets/logo/squeen-668_logo.webp","name":"squeen668 | Slot Online Terbaik di Malaysia & Bonus Paling Tinggi","description":"Main dan menang besar di squeen668, laman slot online paling dipercayai di Malaysia. Nikmati bonus hebat, permainan adil & muat turun iOS/Android APK sekarang."},"breadcrumbs":{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"squeen668","item":"https://squeen-668.com"}]},"faq":{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Apakah kelayakan untuk bermain di squeen668?","acceptedAnswer":{"@type":"Answer","text":"Anda perlu berumur sekurang-kurangnya 21 tahun dan memiliki akaun yang telah disahkan melalui e-mel."}},{"@type":"Question","name":"Bagaimana cara menuntut bonus alu-aluan?","acceptedAnswer":{"@type":"Answer","text":"Lakukan deposit pertama dan sistem akan kreditkan bonus secara automatik dalam masa 10 minit."}},{"@type":"Question","name":"Kaedah pembayaran apa diterima?","acceptedAnswer":{"@type":"Answer","text":"Kami terima FPX, pemindahan bank, dan e-wallet utama seperti Touch ‘n Go eWallet serta ShopeePay."}},{"@type":"Question","name":"Bolehkah saya cuba permainan secara percuma?","acceptedAnswer":{"@type":"Answer","text":"Ya, mod demo tersedia untuk semua slot video supaya anda dapat cuba tanpa risiko."}},{"@type":"Question","name":"Berapa lama masa pengeluaran diproses?","acceptedAnswer":{"@type":"Answer","text":"Kebanyakan pengeluaran dilengkapkan dalam 30 minit pada hari bekerja."}},{"@type":"Question","name":"Bagaimana untuk hubungi sokongan pelanggan?","acceptedAnswer":{"@type":"Answer","text":"Klik ikon live chat di sudut laman atau hubungi kami melalui WhatsApp dan Telegram."}},{"@type":"Question","name":"Apakah itu VIP Eksklusif?","acceptedAnswer":{"@type":"Answer","text":"Program ganjaran berperingkat yang memberi cashback lebih tinggi, bonus peribadi dan akses acara istimewa."}},{"@type":"Question","name":"Adakah permainan di squeen668 diaudit?","acceptedAnswer":{"@type":"Answer","text":"Semua permainan diaudit secara berkala oleh pihak ketiga bebas untuk jaminan keadilan."}},{"@type":"Question","name":"Bagaimana cara menetapkan had perjudian?","acceptedAnswer":{"@type":"Answer","text":"Log masuk ke profil anda dan pilih “Had Akaun” untuk tetapan deposit, kerugian atau waktu sesi."}},{"@type":"Question","name":"Apakah langkah keselamatan pada squeen668?","acceptedAnswer":{"@type":"Answer","text":"Kami guna SSL enkripsi tahap bank dan pengesahan dua faktor untuk lindungi akaun anda."}}]}},
             "body": {
                 "marquee": 1,
                 "top-brand": 1,
@@ -12,7 +12,7 @@
                     {
                         "title": "",
                         "content": "",
-                        "image": "gee55.webp",
+                        "image": "squeen-668.webp",
                         "url": ""
                     }
                 ],
@@ -23,9 +23,9 @@
             }
         },
         {
-            "page_title": "Slot Games",
-            "page_slug": "permainan-slot",
-            "meta_tags": [],
+            "page_title": "Slot",
+            "page_slug": "slot-online",
+            "meta_tags": ["<link rel=\"canonical\" href=\"https://squeen-668.com/slot\">","<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">","<meta content=\"IE=Edge\" http-equiv=\"X-UA-Compatible\">","<meta name=\"author\" content=\"squeen668\">","<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>","<meta name=\"renderer\" content=\"webkit\"/>","<title>Slot Online RTP Tinggi | Main & Menang di squeen668 Malaysia</title>","<meta name=\"title\" content=\"Slot Online RTP Tinggi | Main & Menang di squeen668 Malaysia\">","<meta name=\"description\" content=\"Main slot online Malaysia di squeen668 dengan RTP tinggi, pelbagai tema menarik, dan jackpot progresif. Cuba demo slot percuma dan nikmati bonus harian sekarang\">","<meta name=\"keywords\" content=\"squeen668 slot, slot online Malaysia, squeen668 online casino, slot rtp tinggi, squeen668 apk download, squeen668 ios apk, jackpot progresif, slot video, slot demo, squeen668 vip\">","<meta itemprop=\"name\" content=\"Slot Online RTP Tinggi | Main & Menang di squeen668 Malaysia\">","<meta itemprop=\"description\" content=\"Main slot online Malaysia di squeen668 dengan RTP tinggi, pelbagai tema menarik, dan jackpot progresif. Cuba demo slot percuma dan nikmati bonus harian sekarang\">","<meta itemprop=\"image\" content=\"{{site_base_url}}/assets/images/banner/squeen-668.webp\">","<meta property=\"og:locale\" content=\"ms-MY\">","<meta property=\"og:type\" content=\"article\">","<meta property=\"og:url\" content=\"https://squeen-668.com/slot\">","<meta property=\"og:title\" content=\"Slot Online RTP Tinggi | Main & Menang di squeen668 Malaysia\">","<meta property=\"og:description\" content=\"Main slot online Malaysia di squeen668 dengan RTP tinggi, pelbagai tema menarik, dan jackpot progresif. Cuba demo slot percuma dan nikmati bonus harian sekarang\">","<meta property=\"og:site_name\" content=\"squeen-668.com\">","<meta property=\"og:image\" content=\"{{site_base_url}}/assets/images/banner/squeen-668.webp\">","<meta property=\"article:tag\" content=\"squeen668 slot\">","<meta property=\"article:tag\" content=\"slot online Malaysia\">","<meta property=\"article:tag\" content=\"squeen668 online casino\">","<meta property=\"article:tag\" content=\"slot rtp tinggi\">","<meta property=\"article:tag\" content=\"slot apk download\">","<meta property=\"article:tag\" content=\"slot demo\">","<meta property=\"article:tag\" content=\"jackpot progresif\">","<meta property=\"article:tag\" content=\"squeen668 ios apk\">"],
             "schema":  {},
             "body": {
                 "marquee": 0,
@@ -41,9 +41,9 @@
             }
         },
         {
-            "page_title": "Download APK",
-            "page_slug": "muat-turun-apk",
-            "meta_tags": [],
+            "page_title": "Muat Turun iOS/APK",
+            "page_slug": "muat-turun-aplikasi-ios-apk",
+            "meta_tags": ["<link rel=\"canonical\" href=\"https://squeen-668.com/muat-turun-ios-apk\">","<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">","<meta content=\"IE=Edge\" http-equiv=\"X-UA-Compatible\">","<meta name=\"author\" content=\"squeen668\">","<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>","<meta name=\"renderer\" content=\"webkit\"/>","<title>Muat Turun squeen668 APK & iOS | Aplikasi Slot Online Malaysia</title>","<meta name=\"title\" content=\"Muat Turun squeen668 APK & iOS | Aplikasi Slot Online Malaysia\">","<meta name=\"description\" content=\"Muat turun aplikasi squeen668 untuk iOS & Android sekarang. Main slot online lebih laju, stabil & selamat dengan notifikasi promosi terus ke telefon anda.\">","<meta name=\"keywords\" content=\"squeen668 apk, squeen668 iOS, muat turun squeen668, squeen668 apk download, squeen668 ios download, aplikasi squeen668, squeen668 android apk, download apk slot, slot online Malaysia, squeen668 apk rasmi\">","<meta itemprop=\"name\" content=\"Muat Turun squeen668 APK & iOS | Aplikasi Slot Online Malaysia\">","<meta itemprop=\"description\" content=\"Muat turun aplikasi squeen668 untuk iOS & Android sekarang. Main slot online lebih laju, stabil & selamat dengan notifikasi promosi terus ke telefon anda.\">","<meta itemprop=\"image\" content=\"{{site_base_url}}/assets/images/logo/squeen-668_logo.webp\">","<meta property=\"og:locale\" content=\"ms-MY\">","<meta property=\"og:type\" content=\"article\">","<meta property=\"og:url\" content=\"https://squeen-668.com/muat-turun-ios-apk\">","<meta property=\"og:title\" content=\"Muat Turun squeen668 APK & iOS | Aplikasi Slot Online Malaysia\">","<meta property=\"og:description\" content=\"Muat turun squeen668 apk rasmi untuk iOS & Android sekarang. Main slot online lebih laju, stabil & selamat dengan notifikasi promosi terus ke telefon anda.\">","<meta property=\"og:site_name\" content=\"squeen-668.com\">","<meta property=\"og:image\" content=\"{{site_base_url}}/assets/images/logo/squeen-668_logo.webp\">","<meta property=\"article:tag\" content=\"squeen668 apk\">","<meta property=\"article:tag\" content=\"squeen668 iOS\">","<meta property=\"article:tag\" content=\"muat turun squeen668\">","<meta property=\"article:tag\" content=\"squeen668 apk download\">","<meta property=\"article:tag\" content=\"aplikasi slot online\">","<meta property=\"article:tag\" content=\"squeen668 ios download\">","<meta property=\"article:tag\" content=\"download apk slot\">","<meta property=\"article:tag\" content=\"slot online Malaysia\">"],
             "schema":  {},
             "body": {
                 "marquee": 1,
@@ -58,7 +58,31 @@
         },
         {
             "page_title": "VIP",
-            "page_slug": "vip",
+            "page_slug": "program-vip-eksklusif",
+            "meta_tags": ["<link rel=\"canonical\" href=\"https://squeen-668.com/vip\">","<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">","<meta content=\"IE=Edge\" http-equiv=\"X-UA-Compatible\">","<meta name=\"author\" content=\"squeen668\">","<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>","<meta name=\"renderer\" content=\"webkit\"/>","<title>Program VIP squeen668 | Ganjaran Eksklusif Untuk Pemain Setia</title>","<meta name=\"title\" content=\"Program VIP squeen668 | Ganjaran Eksklusif Untuk Pemain Setia\">","<meta name=\"description\" content=\"Sertai program VIP squeen668 dan nikmati ganjaran premium, cashback harian, pengurus akaun peribadi & akses ke promosi istimewa. Untuk pemain aktif & setia sahaja.\">","<meta name=\"keywords\" content=\"squeen668 VIP, vip program squeen668, squeen668 high roller, daily cashback, ganjaran premium, squeen668 akaun VIP, VIP kasino Malaysia, squeen668 promosi VIP, squeen668 pengurus akaun, slot online VIP\">","<meta itemprop=\"name\" content=\"Program VIP squeen668 | Ganjaran Eksklusif Untuk Pemain Setia\">","<meta itemprop=\"description\" content=\"Sertai program VIP squeen668 dan nikmati ganjaran premium, daily cashback, pengurus akaun peribadi & akses ke promosi istimewa. Untuk pemain aktif & setia sahaja.\">","<meta itemprop=\"image\" content=\"{{site_base_url}}/assets/images/logo/squeen-668_logo.webp\">","<meta property=\"og:locale\" content=\"ms-MY\">","<meta property=\"og:type\" content=\"article\">","<meta property=\"og:url\" content=\"https://squeen-668.com/vip\">","<meta property=\"og:title\" content=\"Program VIP squeen668 | Ganjaran Eksklusif Untuk Pemain Setia\">","<meta property=\"og:description\" content=\"Sertai program VIP squeen668 dan nikmati ganjaran premium, cashback harian, pengurus akaun peribadi & akses ke promosi istimewa. Untuk pemain aktif & setia sahaja.\">","<meta property=\"og:site_name\" content=\"squeen-668.com\">","<meta property=\"og:image\" content=\"https://squeen-668.com/images/vip-banner.jpg\">","<meta property=\"article:tag\" content=\"squeen668 VIP\">","<meta property=\"article:tag\" content=\"vip program squeen668\">","<meta property=\"article:tag\" content=\"squeen668 high roller\">","<meta property=\"article:tag\" content=\"daily cashback\">","<meta property=\"article:tag\" content=\"VIP kasino Malaysia\">","<meta property=\"article:tag\" content=\"pengurus akaun VIP\">","<meta property=\"article:tag\" content=\"slot vip squeen668\">","<meta property=\"article:tag\" content=\"ganjaran premium\">","<meta property=\"article:tag\" content=\"promosi eksklusif squeen668\">"],
+            "schema":  {},
+            "body": {
+                "marquee": 1,
+                "banner": [
+                    {
+                        "title": "",
+                        "content": "",
+                        "image": "",
+                        "url": ""
+                    }
+                ],
+                "content": "",
+                "faq": [
+                    {
+                        "question": "",
+                        "answer": ""
+                    }
+                ]
+            }
+        },
+        {
+            "page_title": "Cara Pembayaran",
+            "page_slug": "cara-pembayaran",
             "meta_tags": [],
             "schema":  {},
             "body": {
@@ -81,32 +105,8 @@
             }
         },
         {
-            "page_title": "Payment Method",
-            "page_slug": "cara-pembayaran-cepat",
-            "meta_tags": [],
-            "schema":  {},
-            "body": {
-                "marquee": 1,
-                "banner": [
-                    {
-                        "title": "",
-                        "content": "",
-                        "image": "",
-                        "url": ""
-                    }
-                ],
-                "content": "",
-                "faq": [
-                    {
-                        "question": "",
-                        "answer": ""
-                    }
-                ]
-            }
-        },
-        {
-            "page_title": "Bonuses & Promotions",
-            "page_slug": "bonus-promotion",
+            "page_title": "Bonus & Promosi",
+            "page_slug": "bonus-dan-promosi",
             "meta_tags": [],
             "schema":  {},
             "body": {
@@ -129,7 +129,7 @@
             }
         },
         { 
-            "page_title": "Contact",
+            "page_title": "Hubungi Kami",
             "page_slug": "hubungi-kami",
             "meta_tags": [],
             "schema":  {},
@@ -155,7 +155,7 @@
     ],
     "disclaimer": [
         {
-            "page_title": "Responsible Gambling",
+            "page_title": "Perjudian Bertanggungjawab",
             "page_slug": "perjudian-bertanggungjawab",
             "meta_tags": [],
             "schema":  {},
@@ -179,7 +179,7 @@
             }
         },
         {
-            "page_title": "Privacy Policy",
+            "page_title": "Dasar Privasi",
             "page_slug": "dasar-privasi",
             "meta_tags": [],
             "schema":  {},
@@ -203,7 +203,7 @@
             }
         },
         {
-            "page_title": "Terms & Conditions",
+            "page_title": "Terma dan Syarat",
             "page_slug": "terma-dan-syarat",
             "meta_tags": [],
             "schema":  {},
