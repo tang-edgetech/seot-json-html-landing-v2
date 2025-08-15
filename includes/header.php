@@ -1,5 +1,6 @@
 <?php
 // if (!isset($page)) $page = [];
+$settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ), true);
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -20,6 +21,22 @@
     <link rel="stylesheet" type="text/css" href="<?php echo home_url();?>/assets/css/base.php?v=<?php echo tags_version();?>"/>
     <link rel="stylesheet" type="text/css" href="<?php echo home_url();?>/assets/css/style.css?v=<?php echo tags_version();?>"/>
     <link rel="stylesheet" type="text/css" href="<?php echo home_url();?>/assets/css/media.css?v=<?php echo tags_version();?>"/>
+    <?php
+    if( isset($settings['google_tag']) && $settings['google_tag']['status'] === 1 ) {
+        $gtag_id = $settings['google_tag']['code'];
+    ?>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=<?= $gtag_id ?>"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '<?= $gtag_id ?>');
+    </script>
+    <?php
+    }
+    ?>
     <?php echo get_page_markup_schema($page);?>
     </head>
     <body>

@@ -1,0 +1,56 @@
+{
+    "pages": [
+        {
+            "page_title": "",
+            "page_slug": "",
+            "meta_tags": [],
+            "schema":  {},
+            "body": {
+                "marquee": 0,
+                "top-brand": 0,
+                "banner": [
+                    {
+                        "title": "",
+                        "content": "",
+                        "image": "",
+                        "url": ""
+                    }
+                ],
+                "content": "",
+                "faq": [
+                    {
+                        "question": "",
+                        "answer": ""
+                    }
+                ]
+            }
+        }
+    ],
+    "disclaimer": [
+        {
+            "page_title": "",
+            "page_slug": "",
+            "meta_tags": [],
+            "schema":  {},
+            "body": {
+                "marquee": 0,
+                "top-brand": 0,
+                "banner": [
+                    {
+                        "title": "",
+                        "content": "",
+                        "image": "",
+                        "url": ""
+                    }
+                ],
+                "content": "",
+                "faq": [
+                    {
+                        "question": "",
+                        "answer": ""
+                    }
+                ]
+            }
+        }
+    ]
+}

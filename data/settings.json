@@ -1,4 +1,8 @@
 {
+    "google_tag": {
+        "status": 0,
+        "code": "G-VDNP6S1KFM"
+    },
     "colors": {
         "primary": "#00ffd9",
         "secondary": "#ff0055"
