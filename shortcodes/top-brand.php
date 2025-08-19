@@ -20,7 +20,7 @@ if( $data === 'on' || $data === 1 ) {
                 echo '<div class="top-brand-item '.$key.' p-2">
                     <div class="top-brand-inner d-flex align-items-center justify-content-start">
                         <div class="col col-header pt-3">
-                            <div class="col-image"><img src="'.$brand_thumbnail.'"/></div>
+                            <div class="col-image"><img src="'.$brand_thumbnail.'" alt="winbebas-promo"/></div>
                             <div class="col-title">'.$brand_title.'</div>
                         </div>
                         <div class="col col-desc pt-3">
