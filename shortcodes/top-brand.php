@@ -10,9 +10,11 @@ if( $data === 'on' || $data === 1 ) {
                 <div class="top-brand">
                 <?php 
                 $brand = $top_brands[SITE_KEY];
-                $brand_title = $brand['title'];
+                // $brand_title = $brand['title'];
+                $brand_title = "WINBEBAS";
                 $brand_desc = $brand['description'];
-                $brand_thumbnail = assets_url().'/top_brand/top_brand_'.SITE_KEY.'.png';
+                // $brand_thumbnail = assets_url().'/top_brand/top_brand_'.SITE_KEY.'.png';
+                $brand_thumbnail = assets_url().'/top_brand/top_brand_winbebas.png';
                 $brand_link = $brand['url'];
                 $disabled = ($tb_index > 0) ? ' disabled' : '';
                 echo '<div class="top-brand-item '.$key.' p-2">
