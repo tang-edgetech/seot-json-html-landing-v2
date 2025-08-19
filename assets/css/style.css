@@ -694,6 +694,7 @@ a, button, .btn, a.button, button.btn {
     background-color: #272727;
     border: 1px solid #ececec;
     border-radius: 5px;
+    width: 100%;
 }
 .top-brand .top-brand-item::before {
     content: counter(brand-counter);
