@@ -2,8 +2,9 @@
 if( $data === 'on' || $data === 1 ) {
     $top_brands = json_decode(file_get_contents(__DIR__.'/../data/top_brands.json'), true);
     $tb_index = 0;
+    $top_brand_classes = "pb-0";
 ?>
-<section class="" id="">
+<section class="<?= $top_brand_classes;?>" id="">
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-12 px-3">
