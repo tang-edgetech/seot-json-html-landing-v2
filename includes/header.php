@@ -56,13 +56,13 @@ $settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ),
                             <picture>
                                 <source srcset="<?php echo home_url() .'/assets/images/logo/'.SITE_KEY.'_logo.webp';?>" type="image/webp">
                                 <source srcset="<?php echo home_url() .'/assets/images/logo/'.SITE_KEY.'_logo.png';?>" type="image/png">
-                                <img src="<?php echo home_url() .'/assets/images/logo/'.SITE_KEY.'_logo.webp';?>" alt="<?php echo strtoupper(SITE_KEY);?> Logo" class="img-fit">
+                                <img src="<?php echo home_url() .'/assets/images/logo/'.SITE_KEY.'_logo.webp';?>" alt="<?php echo (SITE_KEY);?>-logo" class="img-fit">
                             </picture>
                         </strong></a>
                         <div></div>
                         <div class="collapse navbar-collapse justify-content-xl-end" id="main-navigation">
                             <div class="navbar-collapse-inner">
-                                <h4 class="d-block text-center p-4 py-2 title-logo mb-0"><a href="<?php echo home_url();?>" class="d-block"><img src="<?php echo home_url() .'/assets/images/logo/'.SITE_KEY.'_logo.webp';?>" alt="<?php echo strtoupper(SITE_KEY);?> Logo" class="img-fit mx-auto"></strong></a></h4>
+                                <h4 class="d-block text-center p-4 py-2 title-logo mb-0"><a href="<?php echo home_url();?>" class="d-block"><img src="<?php echo home_url() .'/assets/images/logo/'.SITE_KEY.'_logo.webp';?>" alt="<?php echo (SITE_KEY);?>-logo" class="img-fit mx-auto"></strong></a></h4>
                                 <button type="button" class="navbar-close" aria-label="Close menu">
                                     <span class="d-none">Close Mobile Menu</span>
                                 </button>

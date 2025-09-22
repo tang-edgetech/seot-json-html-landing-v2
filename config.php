@@ -7,7 +7,7 @@ define('LOCALHOST_NAME', 'squeen-668.com');
 $serverPath = $_SERVER['DOCUMENT_ROOT']; // "/home/seot2/public_html/gee55.info"
 $domainFolder = basename($serverPath);
 define('DOMAIN_NAME', $domainFolder); // gee55.info
-$siteKey = 'squeen-668';
+$siteKey = 'squeen668';
 if( $domainFolder !== 'htdocs' ) {
     $siteKey = explode('.', $domainFolder)[0];
 }
