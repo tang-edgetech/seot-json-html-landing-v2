@@ -5,7 +5,7 @@ if( isset($data) && !empty($data) ) {
 <section class="<?php echo $id;?> pt-4 pb-2" id="<?php echo $id.'-'.randomUniqueID();?>">
     <div class="container-fluid">
         <div class="row justify-content-center">
-            <div class="col-12 px-0">
+            <div class="col-12 px-3">
                 <div class="swiper banner-swiper" id="banner-swiper-<?php echo randomUniqueID();?>">
                     <div class="swiper-wrapper">
                     <?php
@@ -18,7 +18,8 @@ if( isset($data) && !empty($data) ) {
                                     if( !empty($item['url']) ) { echo '<a href="" class="swiper-link">'; }
                                     if( !empty($item['image']) ) {
                                         $banner_image = assets_url() . '/banner/'.$item['image'];
-                                        echo '<img src="'.$banner_image.'" class="w-100 h-100"/>';
+                                        $banner_alt = $item['alt'];
+                                        echo '<img src="'.$banner_image.'" class="w-100 h-100" alt="'.$banner_alt.'"/>';
                                     } 
                                     if( !empty($item['url']) ) { echo '</a>'; }
                                     ?>

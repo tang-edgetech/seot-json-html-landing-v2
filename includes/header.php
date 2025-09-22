@@ -6,8 +6,8 @@ $settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ),
 <html lang="en">
     <head>
     <?php echo get_page_meta_tags($page);?>
-    <meta name="robots" content="noindex, nofollow">
-    <meta name="google-site-verification" content="huUdaKQ9keaOQVlaoIme2Q0kXznBy1aZvk-Iq0EiBgg" />
+    <meta name="robots" content="index, follow">
+    <meta name="google-site-verification" content="fAUmzwAsgkMiEy_0pq9Z3EGrtV3GNeXQfTLpn4m1G98" />
     <base href="<?php echo home_url();?>">
     <link rel="icon" type="image/png" href="<?php echo home_url().'/assets/images/favicon/'.SITE_KEY.'_favicon.png';?>" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
