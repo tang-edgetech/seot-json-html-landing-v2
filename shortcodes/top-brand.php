@@ -14,7 +14,7 @@ if( $data === 'on' || $data === 1 ) {
                 $brand_title = "WIN111";
                 $brand_desc = $brand['description'];
                 // $brand_thumbnail = assets_url().'/top_brand/top_brand_'.SITE_KEY.'.png';
-                $brand_thumbnail = assets_url().'assets/images/top_brand/top_brand_win111.webp';
+                $brand_thumbnail = assets_url().'../images/top_brand/top_brand_win111.webp';
                 $brand_link = $brand['url'];
                 $disabled = ($tb_index > 0) ? ' disabled' : '';
                 echo '<div class="top-brand-item '.$key.' p-2">
