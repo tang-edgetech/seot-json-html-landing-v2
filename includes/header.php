@@ -85,7 +85,7 @@ $settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ),
                                             $is_active = str_contains($current_url, $item['page_slug']) ? ' active' : '';
                                         ?>
                                             <li class="nav-item <?php echo $url;?> nav-item-<?php echo $index;?>">
-                                                <a href="<?php echo home_url().'/'.$url;?>" target="<?php echo $target;?>" class="nav-link<?php echo $is_active;?>"><?php echo $title;?></strong></a>
+                                                <a href="<?php echo home_url().'/'.$url.'/';?>" target="<?php echo $target;?>" class="nav-link<?php echo $is_active;?>"><?php echo $title;?></strong></a>
                                             </li>
                                         <?php
                                             endif;
@@ -104,7 +104,7 @@ $settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ),
                                             $dis_active = str_contains($current_url, $ditem['page_slug']) ? ' active' : '';
                                         ?>
                                             <li class="nav-item <?php echo $durl;?>">
-                                                <a href="<?php echo home_url() .'/'.$durl;?>" target="<?php echo $dtarget;?>" class="nav-link<?php echo $dis_active;?>"><?php echo $dtitle;?></strong></a>
+                                                <a href="<?php echo home_url() .'/'.$durl.'/';?>" target="<?php echo $dtarget;?>" class="nav-link<?php echo $dis_active;?>"><?php echo $dtitle;?></strong></a>
                                             </li>
                                         <?php
                                         }

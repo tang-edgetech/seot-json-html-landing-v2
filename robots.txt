@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+Allow:
+
+Sitemap: https://bonus888.pro/sitemap.xml

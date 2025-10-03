@@ -3,15 +3,15 @@
 // CONFIGURATION & GLOBAL FUNCS
 // -----------------------------
 define('BASE_PATH', __DIR__);
-define('LOCALHOST_NAME', 'gee55.info');
-$serverPath = $_SERVER['DOCUMENT_ROOT']; // "/home/seot2/public_html/gee55.info"
+define('LOCALHOST_NAME', 'bonus888.pro');
+$serverPath = $_SERVER['DOCUMENT_ROOT']; // "/home/seot2/public_html/bonus888.pro"
 $domainFolder = basename($serverPath);
-define('DOMAIN_NAME', $domainFolder); // gee55.info
-$siteKey = 'gee55';
+define('DOMAIN_NAME', $domainFolder); // bonus888.pro
+$siteKey = 'bonus888';
 if( $domainFolder !== 'htdocs' ) {
     $siteKey = explode('.', $domainFolder)[0];
 }
-define('SITE_KEY', $siteKey); // gee55
+define('SITE_KEY', $siteKey); // bonus888
 
 // Detect if environment is localhost
 function is_localhost(): bool {
@@ -22,6 +22,15 @@ function is_localhost(): bool {
 function home_url(string $path = ''): string {
     $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? "https" : "http";
     $domain   = is_localhost() ? "localhost/".LOCALHOST_NAME : DOMAIN_NAME;
+    if (
+        (isset($_SERVER['HTTP_HOST']) && $_SERVER['HTTP_HOST'] === 'localhost:8080') ||
+        (isset($_SERVER['SERVER_NAME']) && $_SERVER['SERVER_NAME'] === 'localhost' && $_SERVER['SERVER_PORT'] == 8080)
+    ) {
+        $domain   = is_localhost() ? "localhost:8080/".LOCALHOST_NAME : DOMAIN_NAME;
+    }
+    else {
+        $domain   = is_localhost() ? "localhost/".LOCALHOST_NAME : DOMAIN_NAME;
+    }
 
     $url = $protocol . "://" . $domain;
 
