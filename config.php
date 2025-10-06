@@ -3,11 +3,11 @@
 // CONFIGURATION & GLOBAL FUNCS
 // -----------------------------
 define('BASE_PATH', __DIR__);
-define('LOCALHOST_NAME', 'bonus888.pro');
+define('LOCALHOST_NAME', 'telur33.co');
 $serverPath = $_SERVER['DOCUMENT_ROOT']; // "/home/seot2/public_html/gee55.info"
 $domainFolder = basename($serverPath);
 define('DOMAIN_NAME', $domainFolder); // gee55.info
-$siteKey = 'bonus888';
+$siteKey = 'telur33';
 if( $domainFolder !== 'htdocs' ) {
     $siteKey = explode('.', $domainFolder)[0];
 }

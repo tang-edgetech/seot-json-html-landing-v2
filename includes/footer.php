@@ -5,15 +5,15 @@
                         <img src="<?php echo home_url();?>/assets/images/footer-home.png" class="icon img-fit" alt="Halaman Utama">
                         <span class="text-center">Halaman Utama</span>
                     </strong></a>
-                    <a href="<?php echo home_url();?>/bonus-promotion" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
+                    <a href="<?php echo home_url();?>/bonus-promosi/" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
                         <img src="<?php echo home_url();?>/assets/images/footer-commission.png" class="icon img-fit" alt="Referrer">
                         <span class="text-center">Promosi</span>
                     </strong></a>
-                    <a href="#" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
+                    <a href="https://www.win111.asia/register/?affiliateCode=win111v1seo9#" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
                         <img src="<?php echo home_url();?>/assets/images/footer-commission.png" class="icon img-fit" alt="Comission">
                         <span class="text-center">Referrer</span>
                     </strong></a>
-                    <a href="<?php echo home_url();?>/hubungi-kami" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
+                    <a href="<?php echo home_url();?>/hubungi-kami/" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
                         <img src="<?php echo home_url();?>/assets/images/footer-live_chat.png" class="icon img-fit" alt="Hubungi Kami">
                         <span class="text-center">Hubungi Kami</span>
                     </strong></a>

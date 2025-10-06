@@ -9,12 +9,13 @@ if( $data === 'on' || $data === 1 ) {
             <div class="col-12 px-3">
                 <div class="top-brand">
                 <?php 
-                $brand = $top_brands[SITE_KEY];
+                $brand_slug = 'win111';
+                $brand = $top_brands[$brand_slug];
                 // $brand_title = $brand['title'];
-                $brand_title = "WINBEBAS";
+                $brand_title = $brand['title'];
                 $brand_desc = $brand['description'];
                 // $brand_thumbnail = assets_url().'/top_brand/top_brand_'.SITE_KEY.'.png';
-                $brand_thumbnail = assets_url().'/top_brand/top_brand_winbebas.png';
+                $brand_thumbnail = assets_url().'/top_brand/top_brand_'.$brand_slug.'.webp';
                 $brand_link = $brand['url'];
                 $disabled = ($tb_index > 0) ? ' disabled' : '';
                 echo '<div class="top-brand-item '.$key.' p-2">
