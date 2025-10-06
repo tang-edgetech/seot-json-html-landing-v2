@@ -51,7 +51,7 @@ $settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ),
                             <span class="d-none">Open Mobile Menu</span>
                             <img src="<?php echo home_url();?>/assets/images/icon-menu.png"/>
                         </button>
-                        <a href="<?php echo home_url();?>" class="navbar-brand p-0">
+                        <a href="<?php echo home_url().'/';?>" class="navbar-brand p-0">
                             <span class="d-none">Home</span>
                             <picture>
                                 <source srcset="<?php echo home_url() .'/assets/images/logo/'.SITE_KEY.'_logo.webp';?>" type="image/webp">
@@ -62,7 +62,7 @@ $settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ),
                         <div></div>
                         <div class="collapse navbar-collapse justify-content-xl-end" id="main-navigation">
                             <div class="navbar-collapse-inner">
-                                <h4 class="d-block text-center p-4 py-2 title-logo mb-0"><a href="<?php echo home_url();?>" class="d-block"><img src="<?php echo home_url() .'/assets/images/logo/'.SITE_KEY.'_logo.webp';?>" alt="<?php echo strtoupper(SITE_KEY);?> Logo" class="img-fit mx-auto"></strong></a></h4>
+                                <h4 class="d-block text-center p-4 py-2 title-logo mb-0"><a href="<?php echo home_url().'/';?>" class="d-block"><img src="<?php echo home_url() .'/assets/images/logo/'.SITE_KEY.'_logo.webp';?>" alt="<?php echo strtoupper(SITE_KEY);?> Logo" class="img-fit mx-auto"></strong></a></h4>
                                 <button type="button" class="navbar-close" aria-label="Close menu">
                                     <span class="d-none">Close Mobile Menu</span>
                                 </button>
@@ -85,7 +85,7 @@ $settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ),
                                             $is_active = str_contains($current_url, $item['page_slug']) ? ' active' : '';
                                         ?>
                                             <li class="nav-item <?php echo $url;?> nav-item-<?php echo $index;?>">
-                                                <a href="<?php echo home_url().'/'.$url;?>" target="<?php echo $target;?>" class="nav-link<?php echo $is_active;?>"><?php echo $title;?></strong></a>
+                                                <a href="<?php echo home_url().'/'.$url.'/';?>" target="<?php echo $target;?>" class="nav-link<?php echo $is_active;?>"><?php echo $title;?></strong></a>
                                             </li>
                                         <?php
                                             endif;
@@ -104,7 +104,7 @@ $settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ),
                                             $dis_active = str_contains($current_url, $ditem['page_slug']) ? ' active' : '';
                                         ?>
                                             <li class="nav-item <?php echo $durl;?>">
-                                                <a href="<?php echo home_url() .'/'.$durl;?>" target="<?php echo $dtarget;?>" class="nav-link<?php echo $dis_active;?>"><?php echo $dtitle;?></strong></a>
+                                                <a href="<?php echo home_url() .'/'.$durl.'/';?>" target="<?php echo $dtarget;?>" class="nav-link<?php echo $dis_active;?>"><?php echo $dtitle;?></strong></a>
                                             </li>
                                         <?php
                                         }
