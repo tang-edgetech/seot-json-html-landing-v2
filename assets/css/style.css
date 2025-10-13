@@ -745,10 +745,6 @@ a, button, .btn, a.button, button.btn {
     max-width: fit-content;
     margin: 0 auto;
 }
-.top-brand .top-brand-item:not(:first-child) {
-    /* pointer-events: none; */
-    display: none;
-}
 .btn[disabled] {
     pointer-events: none;
 }

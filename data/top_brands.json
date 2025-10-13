@@ -1,62 +1,44 @@
 {
     "win111": {
-        "domain": "LPK-777.COM",
         "title": "WIN111",
-        "description": "Login Daily and Win Up to RM88",
-        "url": "https://www.win111.asia/register/?affiliateCode=win111v1seo9"
+        "description": "Download App & Get RM888",
+        "url": "https://www.win111.asia/register/?affiliateCode=win111v1seo9",
+        "alt": "win111-download-app-get-rm888"
     },
-    "lpk-777": {
-        "domain": "LPK-777.COM",
-        "title": "LPK-777",
-        "description": "Login Daily and Win Up to RM88",
-        "url": "https://www.win111.asia/register/?affiliateCode=win111v1seo9"
-    },
-    "jom99": {
-        "domain": "jom99.org",
-        "title": "JOM99",
-        "description": "Super VIP bonuses up to RM6,000",
-        "url": "https://www.win111.asia/register/?affiliateCode=win111v1seo9"
-    },
-    "winmyr": {
-        "domain": "winmyr.online",
-        "title": "winmyr",
-        "description": "Refer to Your Friends & Earn RM50",
-        "url": "https://www.win111.asia/register/?affiliateCode=win111v1seo9"
-    },
-    "o9win": {
-        "domain": "o9win.org",
-        "title": "o9win",
-        "description": "Welcome Bonus Up to 250%",
-        "url": "https://www.win111.asia/register/?affiliateCode=win111v1seo9"
-    },
-    "squeen-668": {
-        "domain": "squeen-668.com",
-        "title": "SQUEEN-668",
-        "description": "New Register Free RM20",
-        "url": "https://www.win111.asia/register/?affiliateCode=win111v1seo9"
-    },
-    "bonus888": {
-        "domain": "bonus888.pro",
-        "title": "BONUS888",
-        "description": "365 Days Free Credit Offer",
-        "url": "https://www.win111.asia/register/?affiliateCode=win111v1seo9"
-    },
-    "gee55": {
-        "domain": "gee55.info",
-        "title": "GEE55",
-        "description": "Login Daily & Win Up to RM108",
-        "url": "https://www.win111.asia/register/?affiliateCode=win111v1seo9"
-    },
-    "clubmy": {
-        "domain": "clubmy.org",
-        "title": "CLUBMY",
+    "winbebas": {
+        "title": "WINBEBAS",
         "description": "First Deposit Bonus Up to 120%",
-        "url": "https://www.win111.asia/register/?affiliateCode=win111v1seo9"
+        "url": "https://www.win111.asia/register/?affiliateCode=win111v1seo9",
+        "alt": "winbebas-promo"
     },
-    "telur33": {
-        "domain": "telur33.co",
-        "title": "TELUR33",
-        "description": "Claim RM41 Free Credit Daily",
-        "url": "https://www.win111.asia/register/?affiliateCode=win111v1seo9"
+    "win4u": {
+        "title": "Winboleh",
+        "description": "Welcome bonus RM888 140%",
+        "url": "https://www.win111.asia/register/?affiliateCode=win111v1seo9",
+        "alt": "win4u-promo"
+    },
+    "winboleh": {
+        "title": "Winboleh",
+        "description": "Welcome bonus RM888 140%",
+        "url": "https://www.win111.asia/register/?affiliateCode=win111v1seo9",
+        "alt": "winboleh-promo"
+    },
+    "kaya88": {
+        "title": "KAYA88",
+        "description": "Welcome bonus 60%",
+        "url": "https://www.win111.asia/register/?affiliateCode=win111v1seo9",
+        "alt": "kaya88-promo"
+    },
+    "klwin": {
+        "title": "KLWIN",
+        "description": "First deposit30 dpt 60100 dpt 200",
+        "url": "https://www.win111.asia/register/?affiliateCode=win111v1seo9",
+        "alt": "klwin-promo"
+    },
+    "kaya96": {
+        "title": "Kaya96",
+        "description": "20% weekend bonus",
+        "url": "https://www.win111.asia/register/?affiliateCode=win111v1seo9",
+        "alt": "kaya96-promo"
     }
 }
