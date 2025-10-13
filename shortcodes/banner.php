@@ -2,7 +2,7 @@
 if( isset($data) && !empty($data) ) {
     if( !empty($data[0]['image'] ) ) {
 ?>
-<section class="<?php echo $id;?> pt-0 pb-2" id="<?php echo $id.'-'.randomUniqueID();?>">
+<section class="<?php echo $id;?> pt-4 pb-2" id="<?php echo $id.'-'.randomUniqueID();?>">
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-12 px-0">
