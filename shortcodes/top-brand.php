@@ -1,7 +1,7 @@
 <?php
 if( $data === 'on' || $data === 1 ) {
     $top_brands = json_decode(file_get_contents(__DIR__.'/../data/top_brands.json'), true);
-    $tb_index = 0;
+    // $tb_index = 0;
     $top_brand_classes = "pb-0";
 ?>
 <section class="<?= $top_brand_classes;?>" id="">
@@ -10,16 +10,17 @@ if( $data === 'on' || $data === 1 ) {
             <div class="col-12 px-3">
                 <div class="top-brand">
                 <?php 
-                $selected_brand = 'win111';
-                $brand = $top_brands[$selected_brand];
+                $first_brand = array_key_first($top_brands);
+                $brand = $top_brands[$first_brand];
                 // $brand_title = $brand['title'];
                 $brand_title = $brand['title'];
                 $brand_desc = $brand['description'];
                 // $brand_thumbnail = assets_url().'/top_brand/top_brand_'.SITE_KEY.'.png';
-                $brand_thumbnail = assets_url().'/top_brand/top_brand_'.$selected_brand.'.webp';
+                $brand_thumbnail = assets_url().'/top_brand/top_brand_'.$first_brand.'.webp';
                 $brand_link = $brand['url'];
-                $disabled = ($tb_index > 0) ? ' disabled' : '';
-                $logo_alt = ( isset($brand['alt']) && !empty($brand['alt']) ? ' alt="'.$brand['alt'].'"' : '' );
+                $brand_alt_text = $brand['alt'];
+                $disabled = ( isset($tb_index) && $tb_index > 0) ? ' disabled' : '';
+                $logo_alt = ( isset($brand['alt']) && !empty($brand['alt']) ? ' alt="'.$brand_alt_text.'"' : '' );
                 echo '<div class="top-brand-item '.$key.' p-2">
                     <div class="top-brand-inner d-flex align-items-center justify-content-start">
                         <div class="col col-header pt-3">
