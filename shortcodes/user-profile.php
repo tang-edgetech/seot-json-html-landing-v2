@@ -25,13 +25,13 @@
                         </div>
                         <div class="col-5 px-0 ">
                             <div class="row m-0 p-0 w-100">
-                                <a href="<?php echo $data['deposit'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style btn-primary w-100" type="button" alt="Deposit Button" href="https://kayabet888.com/my-wallet?tab=deposit">
+                                <a href="<?php echo $data['deposit'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style btn-primary w-100" type="button" alt="Deposit Button">
                                     <div class="d-flex align-items-center">
                                         <img class="col-3 px-0" src="<?php echo assets_url();?>/icon-deposit.png" alt="token" style="max-width: 11%">
                                         <span class="col px-0 ps-2 text-0-9 text-weight-600">Deposit</span>
                                     </div>
                                 </a>
-                                <a href="<?php echo $data['withdraw'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style btn-section-bg w-100 mt-2 " type="button" alt="withdraw Button" href="https://kayabet888.com/my-wallet?tab=withdraw">
+                                <a href="<?php echo $data['withdraw'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style btn-section-bg w-100 mt-2 " type="button" alt="withdraw Button">
                                     <div class="d-flex align-items-center">
                                         <img class="col-3 px-0 filter-black-to-white" src="<?php echo assets_url();?>/icon-withdrawal.png" alt="token" style="max-width: 11%">
                                         <span class="col px-0 ps-2 text-0-9 text-weight-600">Withdraw</span>
@@ -44,7 +44,7 @@
                                     </div>
                                 </a>
                                 
-                                <a href="<?php echo $data['refresh'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style btn-section-bg w-100 mt-2" type="button" alt="refresh Button" href="https://kayabet888.com/login">
+                                <a href="<?php echo $data['refresh'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style btn-section-bg w-100 mt-2" type="button" alt="refresh Button">
                                     <div class="d-flex align-items-center">
                                         <img class="col-3 px-0 filter-black-to-white" src="<?php echo assets_url();?>/icon-refresh.png" alt="token" style="max-width: 11%">
                                         <span class="col px-0 ps-2 text-0-9 text-weight-600">Segar Semula</span>
