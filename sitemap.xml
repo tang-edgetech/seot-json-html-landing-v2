@@ -1,58 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset 
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="
-        http://www.sitemaps.org/schemas/sitemap/0.9 
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <url>
-    <loc>https://gee55.info/</loc>
-    <lastmod>2025-07-30</lastmod>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://gee55.info/slot/</loc>
-    <lastmod>2025-07-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gee55.info/vip/</loc>
-    <lastmod>2025-07-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gee55.info/muat-turun-apk/</loc>
-    <lastmod>2025-07-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gee55.info/kaedah-pembayaran/</loc>
-    <lastmod>2025-07-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gee55.info/bonus-promosi/</loc>
-    <lastmod>2025-07-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gee55.info/hubungi-kami/</loc>
-    <lastmod>2025-07-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gee55.info/perjudian-bertanggungjawab/</loc>
-    <lastmod>2025-07-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gee55.info/dasar-privasi/</loc>
-    <lastmod>2025-07-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gee55.info/terma-dan-syarat/</loc>
-    <lastmod>2025-07-30</lastmod>
-    <priority>0.8</priority>
-  </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://gee55.info/</loc>
+  <lastmod>2025-10-17T03:07:28+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://gee55.info/slot/</loc>
+  <lastmod>2025-10-17T03:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gee55.info/muat-turun-apk/</loc>
+  <lastmod>2025-10-17T03:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gee55.info/vip/</loc>
+  <lastmod>2025-10-17T03:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gee55.info/kaedah-pembayaran/</loc>
+  <lastmod>2025-10-17T03:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gee55.info/bonus-promosi/</loc>
+  <lastmod>2025-10-17T03:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gee55.info/hubungi-kami/</loc>
+  <lastmod>2025-10-17T03:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gee55.info/perjudian-bertanggungjawab/</loc>
+  <lastmod>2025-10-17T03:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gee55.info/dasar-privasi/</loc>
+  <lastmod>2025-10-17T03:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gee55.info/terma-dan-syarat/</loc>
+  <lastmod>2025-10-17T03:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
