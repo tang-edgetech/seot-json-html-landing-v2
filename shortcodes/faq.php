@@ -33,4 +33,7 @@ if( !empty($data[0]['question']) && !empty($data[0]['answer']) ) {
 </section>
 <?php
 }
+else {
+    echo '<div class="d-none hide">Hide</div>';
+}
 ?>

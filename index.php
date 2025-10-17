@@ -8,6 +8,9 @@ if (!empty($page['body']) ) {
     $body = $page['body'];
     foreach( $page['body'] as $id => $data ) {
         include __DIR__ . "/shortcodes/".$id.'.php';
+        if( $id === 'faq' ) {
+            echo '<script>console.log("'.$data[0]['answer'].'");</script>';
+        }
     }
 }
 include __DIR__ . '/includes/footer.php';

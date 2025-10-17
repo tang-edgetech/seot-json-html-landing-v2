@@ -176,7 +176,7 @@ section {
 h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0.75rem;
 }
-h1, h2, h3, h4, h5, h6, b, strong, .text-editor > p > b > a {
+h1, h2, h3, h4, h5, h6, b, strong, .text-editor > p > b > a, .accordion-button {
     font-weight: var(--fw-semi-bold);
 }
 .text-editor h1 a, .text-editor h2 a, .text-editor h3 a, .text-editor h4 a, .text-editor h5 a, .text-editor h6 a, li a, li b a {
