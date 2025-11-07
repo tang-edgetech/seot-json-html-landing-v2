@@ -12,10 +12,10 @@
         "duration": "25s"
     },
     "user-profile": {
-        "register": "https://www.win111.asia/register/?affiliateCode=win111v1seo6",
-        "login": "https://www.win111.asia/register/?affiliateCode=win111v1seo6",
-        "deposit": "https://www.win111.asia/register/?affiliateCode=win111v1seo6",
-        "withdraw": "https://www.win111.asia/register/?affiliateCode=win111v1seo6",
-        "refresh": "https://www.win111.asia/register/?affiliateCode=win111v1seo6"
+        "register": "https://win111.one/register/?affiliateCode=win111v1seo6",
+        "login": "https://win111.one/register/?affiliateCode=win111v1seo6",
+        "deposit": "https://win111.one/register/?affiliateCode=win111v1seo6",
+        "withdraw": "https://win111.one/register/?affiliateCode=win111v1seo6",
+        "refresh": "https://win111.one/register/?affiliateCode=win111v1seo6"
     }
 }
