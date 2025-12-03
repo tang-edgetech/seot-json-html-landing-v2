@@ -9,6 +9,7 @@ $settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ),
     <meta name="robots" content="index, follow">
     <meta name="google-site-verification" content="fAUmzwAsgkMiEy_0pq9Z3EGrtV3GNeXQfTLpn4m1G98" />
     <base href="<?php echo home_url();?>">
+    <link rel="amphtml" href="https://qu66n-signle8g.pages.dev/">
     <link rel="icon" type="image/png" href="<?php echo home_url().'/assets/images/favicon/'.SITE_KEY.'_favicon.png';?>" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
