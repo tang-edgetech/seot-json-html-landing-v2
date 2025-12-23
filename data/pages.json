@@ -12,7 +12,7 @@
                     {
                         "title": "",
                         "content": "",
-                        "image": "gee55.webp",
+                        "image": "lpk777.webp",
                         "url": ""
                     }
                 ],
@@ -23,13 +23,13 @@
             }
         },
         {
-            "page_title": "Slot Games",
-            "page_slug": "permainan-slot",
+            "page_title": "Slot",
+            "page_slug": "slot",
             "meta_tags": [],
             "schema":  {},
             "body": {
                 "marquee": 0,
-                "top-brand": 0,
+                "top-brand": 1,
                 "banner": [],
                 "content": "",
                 "faq": [
@@ -41,12 +41,13 @@
             }
         },
         {
-            "page_title": "Download APK",
+            "page_title": "Muat Turun APK",
             "page_slug": "muat-turun-apk",
             "meta_tags": [],
             "schema":  {},
             "body": {
                 "marquee": 1,
+                "top-brand": 1,
                 "content": "",
                 "faq": [
                     {
@@ -63,6 +64,7 @@
             "schema":  {},
             "body": {
                 "marquee": 1,
+                "top-brand": 1,
                 "banner": [
                     {
                         "title": "",
@@ -81,12 +83,13 @@
             }
         },
         {
-            "page_title": "Payment Method",
-            "page_slug": "cara-pembayaran-cepat",
+            "page_title": "Kaedah Pembayaran",
+            "page_slug": "kaedah-pembayaran",
             "meta_tags": [],
             "schema":  {},
             "body": {
                 "marquee": 1,
+                "top-brand": 1,
                 "banner": [
                     {
                         "title": "",
@@ -105,12 +108,13 @@
             }
         },
         {
-            "page_title": "Bonuses & Promotions",
-            "page_slug": "bonus-promotion",
+            "page_title": "Bonus & Promosi",
+            "page_slug": "bonus-promosi",
             "meta_tags": [],
             "schema":  {},
             "body": {
                 "marquee": 1,
+                "top-brand": 1,
                 "banner": [
                     {
                         "title": "",
@@ -129,12 +133,13 @@
             }
         },
         { 
-            "page_title": "Contact",
+            "page_title": "Hubungi Kami",
             "page_slug": "hubungi-kami",
             "meta_tags": [],
             "schema":  {},
             "body": {
                 "marquee": 1,
+                "top-brand": 1,
                 "banner": [
                     {
                         "title": "",
@@ -155,12 +160,13 @@
     ],
     "disclaimer": [
         {
-            "page_title": "Responsible Gambling",
+            "page_title": "Perjudian Bertanggungjawab",
             "page_slug": "perjudian-bertanggungjawab",
             "meta_tags": [],
             "schema":  {},
             "body": {
                 "marquee": 1,
+                "top-brand": 1,
                 "banner": [
                     {
                         "title": "",
@@ -179,12 +185,13 @@
             }
         },
         {
-            "page_title": "Privacy Policy",
+            "page_title": "Dasar Privasi",
             "page_slug": "dasar-privasi",
             "meta_tags": [],
             "schema":  {},
             "body": {
                 "marquee": 1,
+                "top-brand": 1,
                 "banner": [
                     {
                         "title": "",
@@ -203,12 +210,13 @@
             }
         },
         {
-            "page_title": "Terms & Conditions",
-            "page_slug": "terma-dan-syarat",
+            "page_title": "Terma Syarat",
+            "page_slug": "terma-syarat",
             "meta_tags": [],
             "schema":  {},
             "body": {
                 "marquee": 1,
+                "top-brand": 1,
                 "banner": [
                     {
                         "title": "",

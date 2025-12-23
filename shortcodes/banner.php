@@ -5,7 +5,7 @@ if( isset($data) && !empty($data) ) {
 <section class="<?php echo $id;?> pt-0 pb-2" id="<?php echo $id.'-'.randomUniqueID();?>">
     <div class="container-fluid">
         <div class="row justify-content-center">
-            <div class="col-12 px-0">
+            <div class="col-12 px-3">
                 <div class="swiper banner-swiper" id="banner-swiper-<?php echo randomUniqueID();?>">
                     <div class="swiper-wrapper">
                     <?php

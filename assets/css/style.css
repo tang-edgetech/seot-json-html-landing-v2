@@ -373,7 +373,7 @@ a, button, .btn, a.button, button.btn {
     overflow: hidden;
     box-sizing: border-box;
     background-color: var(--primary-main);
-    color: var(--primary-black);
+    color: var(--primary-white);
 }
 .marquee span {
     display: inline-block;
@@ -383,7 +383,7 @@ a, button, .btn, a.button, button.btn {
     animation: marquee 15s linear infinite;
 }
 .marquee strong {
-    font-size: .8rem;
+    font-size: .7rem;
     font-weight: 400;
 }
 @keyframes marquee {
