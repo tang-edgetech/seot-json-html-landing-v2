@@ -373,7 +373,7 @@ a, button, .btn, a.button, button.btn {
     overflow: hidden;
     box-sizing: border-box;
     background-color: var(--primary-main);
-    color: var(--primary-white);
+    color: var(--primary-black);
 }
 .marquee span {
     display: inline-block;
