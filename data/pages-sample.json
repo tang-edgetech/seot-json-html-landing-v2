@@ -17,12 +17,15 @@
                     }
                 ],
                 "content": "",
-                "faq": [
-                    {
-                        "question": "",
-                        "answer": ""
-                    }
-                ]
+                "faq": {
+                    "section_title": "",
+                    "items": [
+                        {
+                            "question": "",
+                            "answer": ""
+                        }
+                    ]
+                }
             }
         }
     ],
@@ -44,12 +47,15 @@
                     }
                 ],
                 "content": "",
-                "faq": [
-                    {
-                        "question": "",
-                        "answer": ""
-                    }
-                ]
+                "faq": {
+                    "section_title": "",
+                    "items": [
+                        {
+                            "question": "",
+                            "answer": ""
+                        }
+                    ]
+                }
             }
         }
     ]

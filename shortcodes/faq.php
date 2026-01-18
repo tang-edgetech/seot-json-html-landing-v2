@@ -1,14 +1,14 @@
 <?php
-if( !empty($data[0]['question']) && !empty($data[0]['answer']) ) {
+if( !empty($data['items'][0]['question']) && !empty($data['items'][0]['answer']) ) {
 ?>
 <section class="" id="faq">
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-12 px-4">
-                <h2>Soalan Lazim (FAQ)</h2>
+                <h2><?= (isset($data['section_title']) && !empty($data['section_title']) ) ? $data['section_title'] : 'Soalan Lazim (FAQ)';?></h2>
                 <div class="accordion" id="accordionFAQ">
                 <?php $i = 1;
-                foreach ( $data as $item ) {
+                foreach ( $data['items'] as $item ) {
                     $title = $item['question'];
                     $body = $item['answer'];
                     if( $title && $body ) {
