@@ -1,23 +1,36 @@
             </main>
-            <footer class="footer w-100 fixed-bottom" id="mastfoot">
-                <div class="row px-3 px-md-4 py-2 m-auto w-100">
-                    <a href="<?php echo home_url();?>" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
-                        <img src="<?php echo home_url();?>/assets/images/footer-home.png" class="icon img-fit" alt="Halaman Utama">
-                        <span class="text-center">Halaman Utama</span>
-                    </strong></a>
-                    <a href="<?php echo home_url();?>/bonus-promosi" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
-                        <img src="<?php echo home_url();?>/assets/images/footer-commission.png" class="icon img-fit" alt="Referrer">
-                        <span class="text-center">Promosi</span>
-                    </strong></a>
-                    <a href="https://www.win4u.co/m/register?affiliateCode=seo01" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
-                        <img src="<?php echo home_url();?>/assets/images/footer-commission.png" class="icon img-fit" alt="Comission">
-                        <span class="text-center">Referrer</span>
-                    </strong></a>
-                    <a href="<?php echo home_url();?>/hubungi-kami" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
-                        <img src="<?php echo home_url();?>/assets/images/footer-live_chat.png" class="icon img-fit" alt="Hubungi Kami">
-                        <span class="text-center">Hubungi Kami</span>
-                    </strong></a>
-                </div>
+            <footer class="footer w-100">
+                <section class="dmca">
+                    <!-- DMCA Badge Section -->
+                    <div class="col-4 p-0 m-auto text-center">
+                        <p class="text-uppercase">Protection</p>
+                        <a href="https://www.dmca.com/r/d9xeydd" title="DMCA.com Protection Status" class="dmca-badge" target="_blank" rel="nofollow noopener noreferrer">
+                            <img src="https://images.dmca.com/Badges/dmca_protected_sml_120l.png?ID=7b176a05-4cb2-4b5c-a49d-6547478e7cee" alt="DMCA.com Protection Status">
+                        </a>
+                        <script data-minify="1" src=""></script>
+                    </div>
+                    <!-- End DMCA Badge Section -->
+                </section> 
+                <section class="p-0 fixed-bottom" id="mastfoot">
+                    <div class="row px-3 px-md-4 py-2 m-auto w-100">
+                        <a href="<?php echo home_url();?>" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
+                            <img src="<?php echo home_url();?>/assets/images/footer-home.png" class="icon img-fit" alt="Halaman Utama">
+                            <span class="text-center">Halaman Utama</span>
+                        </strong></a>
+                        <a href="<?php echo home_url();?>/bonus-promosi" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
+                            <img src="<?php echo home_url();?>/assets/images/footer-commission.png" class="icon img-fit" alt="Referrer">
+                            <span class="text-center">Promosi</span>
+                        </strong></a>
+                        <a href="https://www.win4u.co/m/register?affiliateCode=seo01" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
+                            <img src="<?php echo home_url();?>/assets/images/footer-commission.png" class="icon img-fit" alt="Comission">
+                            <span class="text-center">Referrer</span>
+                        </strong></a>
+                        <a href="<?php echo home_url();?>/hubungi-kami" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
+                            <img src="<?php echo home_url();?>/assets/images/footer-live_chat.png" class="icon img-fit" alt="Hubungi Kami">
+                            <span class="text-center">Hubungi Kami</span>
+                        </strong></a>
+                    </div>
+                </section>
                 <script type="text/javascript" src="<?php echo home_url();?>/assets/js/jquery-3.7.1.min.js"></script>
                 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
                 <script type="text/javascript" src="<?php echo home_url();?>/assets/js/swiper-bundle.min.js"></script>

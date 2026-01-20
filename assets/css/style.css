@@ -26,7 +26,7 @@ main, #masthead, #mastfoot{
 main {
     flex: 1;
     padding-top: 30px;
-    padding-bottom: 100px;
+    padding-bottom: 20px;
 }
 #masthead {
     position: sticky;
@@ -409,6 +409,9 @@ a, button, .btn, a.button, button.btn {
 }
 .table-content > *:last-child {
     margin-bottom: 0;
+}
+.dmca{
+    padding-bottom: 100px;
 }
 .copyright {
     padding: 20px 0;
