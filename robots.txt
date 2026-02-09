@@ -2,4 +2,4 @@ User-agent: *
 Disallow:
 Allow:
 
-Sitemap: https://gee55.info/sitemap.xml
+Sitemap: https://gee55.my/sitemap.xml

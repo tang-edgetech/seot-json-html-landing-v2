@@ -3,10 +3,10 @@
 // CONFIGURATION & GLOBAL FUNCS
 // -----------------------------
 define('BASE_PATH', __DIR__);
-define('LOCALHOST_NAME', 'gee55.info');
-$serverPath = $_SERVER['DOCUMENT_ROOT']; // "/home/seot2/public_html/gee55.info"
+define('LOCALHOST_NAME', 'gee55.my');
+$serverPath = $_SERVER['DOCUMENT_ROOT']; // "/home/seot2/public_html/gee55.my"
 $domainFolder = basename($serverPath);
-define('DOMAIN_NAME', $domainFolder); // gee55.info
+define('DOMAIN_NAME', $domainFolder); // gee55.my
 $siteKey = 'gee55';
 if( $domainFolder !== 'htdocs' ) {
     $siteKey = explode('.', $domainFolder)[0];
