@@ -2,4 +2,4 @@ User-agent: *
 Disallow:
 Allow:
 
-Sitemap: https://squeen-668.com/sitemap.xml
+Sitemap: https://squeen668.space/sitemap.xml
