@@ -2,4 +2,4 @@ User-agent: *
 Disallow:
 Allow:
 
-Sitemap: https://bonus888.pro/sitemap.xml
+Sitemap: https://bonus888my.online/sitemap.xml

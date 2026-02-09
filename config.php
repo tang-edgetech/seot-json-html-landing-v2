@@ -3,7 +3,7 @@
 // CONFIGURATION & GLOBAL FUNCS
 // -----------------------------
 define('BASE_PATH', __DIR__);
-define('LOCALHOST_NAME', 'bonus888.pro');
+define('LOCALHOST_NAME', 'bonus888my.online');
 $serverPath = $_SERVER['DOCUMENT_ROOT']; // "/home/seot2/public_html/bonus888.pro"
 $domainFolder = basename($serverPath);
 define('DOMAIN_NAME', $domainFolder); // bonus888.pro
