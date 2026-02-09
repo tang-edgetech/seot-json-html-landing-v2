@@ -3,7 +3,7 @@
 // CONFIGURATION & GLOBAL FUNCS
 // -----------------------------
 define('BASE_PATH', __DIR__);
-define('LOCALHOST_NAME', 'telur33.co');
+define('LOCALHOST_NAME', 'telur33my.online');
 $serverPath = $_SERVER['DOCUMENT_ROOT']; // "/home/seot2/public_html/gee55.info"
 $domainFolder = basename($serverPath);
 define('DOMAIN_NAME', $domainFolder); // gee55.info

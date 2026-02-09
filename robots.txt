@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://telur33.co/sitemap.xml
+Sitemap: https://telur33my.online/sitemap.xml
