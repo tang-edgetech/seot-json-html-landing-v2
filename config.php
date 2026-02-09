@@ -7,7 +7,7 @@ define('LOCALHOST_NAME', 'bonus888my.online');
 $serverPath = $_SERVER['DOCUMENT_ROOT']; // "/home/seot2/public_html/bonus888.pro"
 $domainFolder = basename($serverPath);
 define('DOMAIN_NAME', $domainFolder); // bonus888.pro
-$siteKey = 'bonus888';
+$siteKey = 'bonus888my';
 if( $domainFolder !== 'htdocs' ) {
     $siteKey = explode('.', $domainFolder)[0];
 }
