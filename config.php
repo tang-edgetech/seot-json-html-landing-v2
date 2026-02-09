@@ -7,7 +7,7 @@ define('LOCALHOST_NAME', 'telur33my.online');
 $serverPath = $_SERVER['DOCUMENT_ROOT']; // "/home/seot2/public_html/gee55.info"
 $domainFolder = basename($serverPath);
 define('DOMAIN_NAME', $domainFolder); // gee55.info
-$siteKey = 'telur33';
+$siteKey = 'telur33my';
 if( $domainFolder !== 'htdocs' ) {
     $siteKey = explode('.', $domainFolder)[0];
 }
